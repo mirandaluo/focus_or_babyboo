@@ -6,3 +6,5 @@ this project was helped by codex only for the rotation to euler(yaw, pitch, roll
 Make sure to download everything above to get the full experience. also make sure the video path is correct in the code video_path = "/Users/mirluo29/Downloads/virus.mp4" (rename to your user and make sure the vid is in downloads and named virus.mp4)
 
 pip install cv2, numpy, mediapipe and tkinter (i may have forgotten some but they are all in the import section of code)
+
+additionally, this is a little bit broken because i programmed it in a rush so it won't detect sometimes. might fix in the future lol
